@@ -1,2 +1,2 @@
 # Translator
-A angular app for translation
+An angular app for translation
